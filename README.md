@@ -9,6 +9,10 @@ This is me following along with the Angular Docs @ https://angular.io/start/.
 ![Part 1/2](/docs/angular_demo_1.1.mp4)
 
 
+https://user-images.githubusercontent.com/33912011/113924308-a4863400-97b7-11eb-9295-c48a339973e8.mp4
+
+
+
 
 This will be used as a project to demonstrate Angular ability & skill and to upgrade my personal website @ https://jjtroiano0272.github.io.
 Likely this will be further used to build my portfolio page https://jjtroiano0272.github.io into a single-page application under Angular.
